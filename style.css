@@ -1,0 +1,101 @@
+html {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color:#ffffff;
+}
+
+#main {
+display:none;
+    color:white;
+}
+
+#boneButton {
+    height: 50px;
+    width:auto;
+    font-size: 20px;
+    color:#ff0000;
+    text-shadow:1px 2px #5d0000;
+    background-image:url(http://s36.podbean.com/pb/1a6f855bcf1ff80d3ce62ff26825187f/5937a566/data1/fs60/702317/uploads/Six_Skulls_by_gaaarg.jpg);
+    background-size:cover;
+    cursor:url(images/cursor.png),pointer;
+    
+}
+
+#boneButton:hover {
+    background-image:url(http://afflictor.com/wp-content/uploads/2014/03/skulls1.jpg);
+    color: #ff0000;
+    text-shadow:1px 1px #ffffff;
+}
+
+#boneButton2 {
+    height: 50px;
+    width:auto;
+    font-size: 20px;
+    color:#ff0000;
+    text-shadow:1px 2px #5d0000;
+    background-image:url(http://s36.podbean.com/pb/1a6f855bcf1ff80d3ce62ff26825187f/5937a566/data1/fs60/702317/uploads/Six_Skulls_by_gaaarg.jpg);
+    background-size:cover;
+    cursor:url(images/cursor.png),pointer;
+    
+}
+
+#boneButton2:hover {
+    background-image:url(http://afflictor.com/wp-content/uploads/2014/03/skulls1.jpg);
+    color: #ff0000;
+    text-shadow:1px 1px #ffffff;
+}
+
+#walker {
+    float:left;
+    position:relative;
+    display:none;
+    max-height:500px;
+}
+
+#loading, #loadingText,#flame {
+    display:none;
+}
+
+#flame.animate {
+    transform: scale(4);
+}
+
+#flame.animate2 {
+    transform: scale(3);
+}
+
+h1{
+    
+    color:white;
+    text-shadow: #b5b5b5;
+    display:none;
+}
+#dude{
+    float: left;
+    display:none;
+}
+
+#dance,#skell {
+    float:right;
+    display:none;
+}
+
+#dancer {
+    display: none;
+    
+}
+
+#dancer.animate {
+    transform: scale(2);
+}
+
+#animator {
+    max-height:300px;
+    
+}
+
+
+
+
