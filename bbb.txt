@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-aaa
-=======
-ccc
->>>>>>> edited bbb
